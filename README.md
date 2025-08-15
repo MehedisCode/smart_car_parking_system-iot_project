@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/e26a8275-b105-41af-b908-88ac2aaae93b" width="350"/>
+<img src="https://github.com/user-attachments/assets/3059765d-7c90-461c-af32-55b977a3daf5" width="490"/>
+
 # 🚗 ESP32 Smart Parking System with Web Monitoring
 
 This is an **ESP32-based Smart Parking Management System** with **IR Sensors, Ultrasonic Sensors, LCD Display, Servo Gate Control, Buzzer Alerts, and Web Monitoring** via Wi-Fi.
